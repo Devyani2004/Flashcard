@@ -22,18 +22,3 @@ A clean interface with:
 - Form for entering new flashcards
 
 ---
-
-##  Getting Started
-
-### 1. **Requirements**
-
-- Python 3.x
-
-No third-party libraries are required — only the standard `tkinter` and `pickle` modules are used.
-
-### 2. **How to Run**
-
-Save the script as `flashcard_app.py`, then run it with:
-
-```bash
-python flashcard_app.py
